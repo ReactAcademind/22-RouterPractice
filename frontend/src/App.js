@@ -23,7 +23,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import RootLayout from "./pages/Root";
 import HomePage from "./pages/HomePage";
-import EventsPage from "./pages/EventsPage";
+import EventsPage from "./pages/Events";
 import EventDetailPage from "./pages/EventDetailPage";
 import NewEventsPage from "./pages/NewEventPage";
 import EditEventPage from "./pages/EditEventPage";
